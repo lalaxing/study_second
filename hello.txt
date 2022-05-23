@@ -1,2 +1,6 @@
 funny mad go pee!
+<<<<<<< HEAD
 jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
+!!!!!!!
+>>>>>>> d79f9184786a7763705ef9711bfa7ce73441095d
